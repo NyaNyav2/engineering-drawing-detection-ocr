@@ -3,6 +3,7 @@
 
 - **SĐT:** 0368820203
 - **Email:** vansykien03@gmail.com
+  
 **Sotatek Computer Vision Assessment**
 
 Hệ thống tự động phát hiện và OCR 3 loại đối tượng trong bản vẽ kỹ thuật:
