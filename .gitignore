@@ -1,0 +1,47 @@
+# Model weights (too large for git — use HuggingFace Hub)
+*.pth
+*.pkl
+*.pt
+
+# Datasets & raw images (large)
+blueprint_yolo/
+labeled_export/
+BOM-Dataset/
+annotations/
+*.zip
+
+# Output folders
+detectron2_training/output/
+detectron2_training/output_v4_ensemble/frcnn_x101/test_results_custom/
+detectron2_training/output_v4_ensemble/frcnn_x101/ocr_pipeline_final/
+detectron2_training/output_v4_ensemble/frcnn_r101/
+detectron2_training/output_v4_ensemble/retinanet_r101/
+detectron2_training/output_v4_ensemble/ensemble_infer/
+
+# Logs
+*.txt
+*.log
+*_log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Conda / venv
+.conda/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# HuggingFace cache
+.cache/

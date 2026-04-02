@@ -1,0 +1,17 @@
+# Web Demo dependencies
+gradio>=4.0.0
+
+# Detectron2 — install from source (see README)
+# torch + torchvision installed separately (see setup instructions)
+
+# PaddleOCR
+paddlepaddle-gpu>=2.5.1
+paddleocr>=2.7.0
+
+# Detectron2 deps
+fvcore>=0.1.5
+omegaconf>=2.3.0
+pycocotools
+opencv-python-headless
+numpy
+Pillow
